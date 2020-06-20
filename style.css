@@ -35,9 +35,9 @@ html, body{
 }
 
 body.demos .section {
-    background: url(images/BG.png) repeat top center #f2f3f5;
+    
+   background: url(images/BG.png) no-repeat center center #ffffff;
 }
-
 body.demos .section-title img {
     max-width: 280px;
     display: block;
