@@ -669,7 +669,7 @@ xclip
 }
 .right-box-pro::before {
     content: "";
-    background: url();
+    background: url(images/anu.jpg);
     width: 100%;
     height: 100%;
 	border-radius: 100px 100px 0px 100px;
